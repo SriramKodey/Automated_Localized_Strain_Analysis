@@ -2,7 +2,7 @@
   A novel method was developed to perform automatic surface strain analysis. The algorithm could overcome the shortcomings of Harris corner detection and Shi Tomasi algorithm when used with images having noise. The developed software system was deployed on low-cost hardware (generic USB Microscope) and was capable of measuring strain with a maximum error of 1.22%, which is within the limits of ASTM-2218-02 standard.
  
 ## Publication
-  Pankaj W, ***Kodey S***, Suresh K, Radhika S, “A low cost surface strain measurement system using imageprocessing for sheet metal forming applications”, Journal of the International Measurement Confederation (IMEKO) MEAS-D-21-03391R1 - Accepted
+  [Wankhede Pankaj, Sriram Kodey, Kurra Suresh, Sudha Radhika, A low cost surface strain measurement system using image processing for sheet metal forming applications, Measurement, 2021, 110273, ISSN 0263-2241](https://doi.org/10.1016/j.measurement.2021.110273)
 
 ## Overview
    1) Single point surface strain analysis using automated measurement of distortion in Square Grid pattern.
